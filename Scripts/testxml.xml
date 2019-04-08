@@ -1,0 +1,6 @@
+﻿<triggers>
+  <trigger>
+    <regex>(testing) 123</regex>
+    <function>asdf</function>
+  </trigger>
+</triggers>
